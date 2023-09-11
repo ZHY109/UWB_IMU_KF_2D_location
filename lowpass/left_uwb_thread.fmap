@@ -1,0 +1,6 @@
+0	field.angular_velocity.x	q
+1	field.angular_velocity.y	q
+2	field.angular_velocity.z	q
+3	field.linear_acceleration.x	q
+4	field.linear_acceleration.y	q
+5	field.linear_acceleration.z	q
